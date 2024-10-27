@@ -12,8 +12,7 @@ A real-time chat application built with the MERN (MongoDB, Express.js, React, No
 - Private and group chats
 - User profile management
 
-## Demo
-Check out the live demo [here](https://your-live-demo-url.com).
+
 
 ## Installation
 ### Prerequisites
@@ -75,7 +74,7 @@ Ensure both servers are running. Open `http://localhost:3000` in your browser.
 This project is licensed under the MIT License.
 
 ## Owner
-Abhay Singh
+Vijay Rai
 
 ---
 
